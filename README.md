@@ -2,6 +2,18 @@
 
 Extensão para Google Chrome que mostra as dimensões e a proporção de uma imagem pelo menu do botão direito.
 
+Use essas informações como referência ao criar ou editar imagens e vídeos, escolhendo dimensões e proporções compatíveis com o formato de saída desejado.
+
+## Demonstração
+
+O GIF mostra como abrir o painel pelo menu da imagem. A gravação apresenta uma versão anterior da interface.
+
+![Demonstração da consulta de escala pelo menu de contexto](docs/demonstracao.gif)
+
+Abaixo, o visual atual do painel.
+
+![Painel atual exibindo dimensões e proporção](docs/painel-atual.png)
+
 ## Instalação
 
 1. Abra `chrome://extensions` no Chrome e ative o **Modo do desenvolvedor**.
